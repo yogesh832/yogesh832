@@ -1,6 +1,6 @@
 ## Hey folks!👋
 
-<p>My name is Virender. I've have been using GitHub to host my repos😊</p>
+<p>My name is Yogesh. I've have been using GitHub to host my repos😊</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh832&label=Profile%20views&color=0e75b6&style=flat" alt="dot-name" /> </p>
 

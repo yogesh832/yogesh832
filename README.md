@@ -1,22 +1,29 @@
-## Hey folks!👋
+Hey, I'm SK Akram!!!
+Software Developer • Open-Source Maintainer • Tech Creator • AI & Developer Tools
 
-<p>My name is Yogesh. I've have been using GitHub to host my repos😊</p>
+I build production software, developer tools, and AI-powered products, and I spend a lot of my time contributing to and maintaining open-source projects.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh832&label=Profile%20views&color=0e75b6&style=flat" alt="dot-name" /> </p>
+* Maintainer at Nano Collective
+* Part-time Software Engineer at AfterQuery Experts
+* 60+ merged open-source PRs across projects including OpenClaw, Activepieces, Internet Archive, and DodoPayments
+* Worked across frontend, backend, AI tooling, developer tooling, and infrastructure
+* Tech Creator on X with 6K+ followers
 
-<span><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh832&show_icons=true&locale=en&layout=compact" alt="dot-name" width = "50%" /><br><img   src="https://github-readme-stats.vercel.app/api?username=yogesh832&show_icons=true&locale=en" alt="dot-name" width = "50%"/><br><img  src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh832&" alt="dot-name" width = "50%" /></span>
+What I Work With
+Languages: TypeScript, JavaScript, C++, C, Java, Python
+Frontend: React, Next.js, Tailwind CSS, Bootstrap, Material UI
+Backend: Node.js, Express.js, REST APIs, WebSockets, PostgreSQL, MongoDB, Prisma, Mongoose, Convex
+AI: Vercel AI SDK, OpenRouter, Gemini, Ollama, AI agents and developer tooling
+DevOps & Tools: Linux, Docker, Docker Compose, GitHub Actions, Vercel, Supabase, Git, GitHub, pnpm, Vite, Postman
 
-<!--
-**yogesh832/yogesh832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open Source
+Open source is a major part of what I do. I enjoy not only writing code, but also reviewing contributions, discussing architecture, creating issues, improving developer experience, and helping projects ship reliable software.
 
-Here are some ideas to get you started:
+* Portfolio
+* LinkedIn
+* Open-Source Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Support my work and make me smile: Buy me a coffee
+* Connect with me: skakram@akramcodez.com
+
+Always building, learning, contributing, and looking for the next hard problem
